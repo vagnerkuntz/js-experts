@@ -1,0 +1,15 @@
+{
+  "name": "lesson01-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "engines": {
+    "node": "20"
+  },
+  "keywords": [],
+  "author": "vagnerkuntz",
+  "license": "ISC"
+}
